@@ -5,16 +5,15 @@
 
 检索报告
 ===================================
-刘博老师制作
---------------------------------
-.. image:: ./a.jpg
+
+.. image:: 
    
 .. toctree::
    :maxdepth: 3
-   :caption: asd
+   :caption: 列表
    
    
-   结构/index
+   1/index
 
 
 
