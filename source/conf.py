@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Arduino函数'
-copyright = '2025, 优启未来刘博'
-author = '刘博'
+project = ''
+copyright = ''
+author = ''
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
@@ -29,3 +29,4 @@ language = 'zh_CN'
 #html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
