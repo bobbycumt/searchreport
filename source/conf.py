@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 # project = ''
-# copyright = ''
+copyright = '论文检索'
 # author = ''
 # release = '1.0'
 
@@ -29,5 +29,6 @@ language = 'zh_CN'
 #html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
 
 
