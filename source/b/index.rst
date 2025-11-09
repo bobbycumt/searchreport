@@ -4,4 +4,4 @@ qwe
    :maxdepth: 1
    :caption: asd
 
-   安装
+   sr
